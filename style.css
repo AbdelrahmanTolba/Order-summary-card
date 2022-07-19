@@ -50,6 +50,7 @@ body {
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-position: top;
+  background-size: contain;
   background-color: var(--color-BluePale);
 }
 .card {
